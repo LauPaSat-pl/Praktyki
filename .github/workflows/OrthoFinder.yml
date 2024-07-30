@@ -1,0 +1,23 @@
+name: orthofinder
+
+on:
+  workflow_dispatch:
+    # manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: install orthofinder
+        run: |
+          wget https://github.com/davidemms/OrthoFinder/releases/download/2.5.5/OrthoFinder_source.tar.gz
+          tar xzf OrthoFinder_source.tar.gz
+
+      - name: run orthofinder
+        run: |
+          ulimit -n 4096
+          python3 orthofinder.py -f pep/
