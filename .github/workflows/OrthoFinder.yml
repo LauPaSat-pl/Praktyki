@@ -20,4 +20,5 @@ jobs:
       - name: run orthofinder
         run: |
           ulimit -n 4096
+          lsK
           python3 orthofinder.py -f pep/
