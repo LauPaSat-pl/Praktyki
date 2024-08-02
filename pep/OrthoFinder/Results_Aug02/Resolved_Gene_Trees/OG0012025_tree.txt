@@ -1,0 +1,1 @@
+((Brassica_napus_CDX77138:0.021217,Brassica_napus_CDY30527:0.017563)n1:0.0815645,(((Capsicum_anuum_CA11g17650:0.065065,Solanum_lycopersicum_Solyc11T002148.1:0.095088)n4:0.048594,(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.ETY13H.1:0.002374,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.N6J268.1:0.002933)n5:0.148546)n3:0.009284,Prunus_persica_Prupe.6G119500.1:0.085324)n2:0.0815645)n0;

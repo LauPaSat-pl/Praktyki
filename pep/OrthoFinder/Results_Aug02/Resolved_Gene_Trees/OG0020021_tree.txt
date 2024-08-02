@@ -1,0 +1,1 @@
+(Brassica_napus_CDY67105:0.121599,((Brassica_napus_CDY09748:0.014801,Brassica_napus_CDX90577:0.028861)n2:0.600252,Brassica_napus_CDY22744:0.098705)n1:0.121599)n0;

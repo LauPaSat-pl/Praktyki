@@ -1,0 +1,1 @@
+(Capsicum_anuum_CA10g18010:0.0023265,(Capsicum_anuum_CA10g17980:0.00835,(Capsicum_anuum_CA03g03260:0.903759,Capsicum_anuum_CA00g97190:0.202433)n2:0.151507)n1:0.0023265)n0;

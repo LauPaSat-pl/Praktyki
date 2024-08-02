@@ -1,0 +1,1 @@
+(Brassica_napus:0.311783,(Prunus_persica:0.200028,Arachis_hypogaea:0.253583)0.551061:0.038488,(Capsicum_anuum:0.131182,Solanum_lycopersicum:0.120498)0.967242:0.183299);

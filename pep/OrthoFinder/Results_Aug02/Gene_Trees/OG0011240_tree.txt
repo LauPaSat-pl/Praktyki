@@ -1,0 +1,1 @@
+(Solanum_lycopersicum_Solyc11T002258.1:0.064633,((((Capsicum_anuum_CA08g01410:0.102451,Capsicum_anuum_CA08g01420:0.616511):0.034978,(Capsicum_anuum_CA07g17950:0.050266,Capsicum_anuum_CA08g01440:0.074464):0.00541):0.067269,(Capsicum_anuum_CA08g01400:1.02694,Capsicum_anuum_CA08g01430:0.173172):0.053846):0.85559,Capsicum_anuum_CA11g18010:0.16247):0.064633);

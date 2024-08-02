@@ -1,0 +1,1 @@
+((((Solanum_lycopersicum_Solyc11T001145.1:0.375211,Solanum_lycopersicum_Solyc10T000804.1:0.0567)n3:0.19622,Solanum_lycopersicum_Solyc10T000797.1:0.203541)n2:0.18794,Capsicum_anuum_CA00g16370:0.134425)n1:0.198017,(Brassica_napus_CDY50631:0.735208,(Brassica_napus_CDY69046:0.146538,Brassica_napus_CDX68201:0.019082)n5:0.402738)n4:0.198017)n0;

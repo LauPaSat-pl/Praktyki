@@ -1,0 +1,1 @@
+(Prunus_persica_Prupe.1G532400.1:0.335744,(((Brassica_napus_CDY39911:0.009184,Brassica_napus_CDY29159:0.008379)n3:0.105119,(Brassica_napus_CDY46877:0.008857,(Brassica_napus_CDY46876:1.39729,Brassica_napus_CDY23812:3.06471e-06)n5:1.00562)n4:0.150021)n2:0.142129,(Brassica_napus_CDX93486:0.047421,Brassica_napus_CDX94955:0.033809)n6:0.255635)n1:0.335744)n0;

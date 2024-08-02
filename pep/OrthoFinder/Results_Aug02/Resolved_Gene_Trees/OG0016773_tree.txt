@@ -1,0 +1,1 @@
+(((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.MMN4BF.1:0.007863,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.90GC30.2:0.008888)n2:0.34353,Prunus_persica_Prupe.5G200400.1:0.327001)n1:0.177422,(Solanum_lycopersicum_Solyc03T002824.1:0.15868,Capsicum_anuum_CA03g29550:0.214015)n3:0.177422)n0;

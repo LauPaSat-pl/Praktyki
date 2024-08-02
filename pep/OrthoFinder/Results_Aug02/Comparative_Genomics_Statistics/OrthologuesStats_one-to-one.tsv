@@ -1,0 +1,6 @@
+	Arachis_hypogaea	Brassica_napus	Capsicum_anuum	Prunus_persica	Solanum_lycopersicum
+Arachis_hypogaea	0.0	355.0	1012.0	1190.0	987.0
+Brassica_napus	355.0	0.0	1006.0	1021.0	965.0
+Capsicum_anuum	1012.0	1006.0	0.0	7980.0	12853.0
+Prunus_persica	1190.0	1021.0	7980.0	0.0	8665.0
+Solanum_lycopersicum	987.0	965.0	12853.0	8665.0	0.0

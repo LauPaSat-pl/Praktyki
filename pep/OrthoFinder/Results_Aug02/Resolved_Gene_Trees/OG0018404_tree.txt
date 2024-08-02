@@ -1,0 +1,1 @@
+((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.GWK3HQ.1:0.148395,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.N6ZDP2.1:0.285085)n1:0.332002,(Brassica_napus_CDY13171:0.254586,Brassica_napus_CDY13173:0.598501)n2:0.332002)n0;

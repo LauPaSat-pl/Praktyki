@@ -1,0 +1,1 @@
+((Capsicum_anuum_CA12g05790:0.229104,Solanum_lycopersicum_Solyc11T000248.1:0.179664):0.454153,(Prunus_persica_Prupe.2G089400.1:0.369858,Prunus_persica_Prupe.7G005000.1:0.152645):0.454153);

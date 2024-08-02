@@ -1,0 +1,1 @@
+(Prunus_persica_Prupe.5G139400.1:0.0339945,(Prunus_persica_Prupe.6G140500.1:0,(Prunus_persica_Prupe.1G188600.1:0,Prunus_persica_Prupe.4G217400.1:0)n2:0)n1:0.0339945)n0;

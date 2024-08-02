@@ -1,0 +1,1 @@
+(Brassica_napus_CDY44276:0.5412,(Capsicum_anuum_CA05g19810:0.215512,(Capsicum_anuum_CA00g79030:0.223018,Capsicum_anuum_CA00g88340:0.073535)n2:0.30828)n1:0.5412)n0;

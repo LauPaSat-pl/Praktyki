@@ -1,0 +1,1 @@
+((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.AP4865.1:0.013553,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.NCX3KP.2:0.121085)n1:0.352206,(Solanum_lycopersicum_Solyc10T002642.1:0.405833,Solanum_lycopersicum_Solyc09T000308.1:0.350702)n2:0.352206)n0;

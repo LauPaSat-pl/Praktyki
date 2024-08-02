@@ -1,0 +1,1 @@
+(Brassica_napus_CDX79240:0.352714,((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.4WA5US.1:0.119715,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.LKX9XM.1:0.239464)n2:0.125015,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.84K5HT.1:0.601289)n1:0.352714)n0;
