@@ -7,10 +7,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content
+        uses: actions/checkout@v4 # checkout the repository content
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: install dependencies
         run: |
@@ -27,3 +32,9 @@ jobs:
         run: |
           ulimit -n 4096
           python3 OrthoFinder_source/orthofinder.py -f pep/
+
+      - name: upload results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: OrthoFinder results
+
