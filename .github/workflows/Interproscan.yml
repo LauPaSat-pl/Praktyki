@@ -29,6 +29,7 @@ jobs:
       - name: install interproscan
         run: |
           echo $name
+          mkdir interproscan
           cd interproscan
           wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.68-100.0/interproscan-5.68-100.0-64-bit.tar.gz
           wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.68-100.0/interproscan-5.68-100.0-64-bit.tar.gz.md5
