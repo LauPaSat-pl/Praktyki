@@ -1,8 +1,7 @@
 name: orthofinder
 
 on:
-  workflow_dispatch:
-    # manual run
+  workflow_dispatch: # manual run
 
 jobs:
   build:

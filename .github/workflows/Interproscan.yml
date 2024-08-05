@@ -1,0 +1,47 @@
+name: interproscan
+
+on:
+  workflow_dispatch: # manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v4 # checkout the repository content
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip wget
+          pip3 install scipy
+
+      - name: save cwd path
+        id: cwd
+        run: echo "::set-output name=cwd::$(pwd)"
+
+      - name: install interproscan
+        run: |
+          echo $name
+          cd interproscan
+          wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.68-100.0/interproscan-5.68-100.0-64-bit.tar.gz
+          wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.68-100.0/interproscan-5.68-100.0-64-bit.tar.gz.md5
+          tar -pxvzf interproscan-5.68-100.0-*-bit.tar.gz
+          python3 setup.py -f interproscan.properties 
+
+
+      - name: run interproscan
+        run: |
+          cd ../pep
+
+#      - name: upload results
+#        uses: stefanzweifel/git-auto-commit-action@v5
+#        with:
+#          commit_message: OrthoFinder results
+
