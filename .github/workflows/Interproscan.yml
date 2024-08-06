@@ -10,6 +10,13 @@ jobs:
       contents: write
 
     steps:
+      - name: Maximize build space
+          uses: easimon/maximize-build-space@master
+          with:
+            remove-dotnet: 'true'
+            remove-haskell: 'true'
+            remove-codeql: 'true'
+            remove-docker-images: 'true'
 
       - name: checkout repo content
         uses: actions/checkout@v4 # checkout the repository content
