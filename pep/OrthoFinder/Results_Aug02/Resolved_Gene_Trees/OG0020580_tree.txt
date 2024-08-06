@@ -1,1 +1,0 @@
-((Capsicum_anuum_CA07g19330:1.12077,Solanum_lycopersicum_Solyc06T000403.1:0.570553)n1:0.196172,(Solanum_lycopersicum_Solyc01T002256.1:0.368582,Capsicum_anuum_CA01g26970:0.398884)n2:0.196172)n0;

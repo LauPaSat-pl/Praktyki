@@ -1,1 +1,0 @@
-((Prunus_persica_Prupe.2G028300.1:0.447995,Prunus_persica_Prupe.2G028100.1:0.613284)n1:0.122166,((Brassica_napus_CDX68700:0.010087,Brassica_napus_CDY28223:0.043641)n3:0.079662,(Brassica_napus_CDY23261:0.139136,(Brassica_napus_CDY36466:0,Brassica_napus_CDX99214:0)n5:0.087726)n4:0.083421)n2:0.122166)n0;

@@ -1,1 +1,0 @@
-(Solanum_lycopersicum_Solyc06T001922.1:0.365197,(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.C5T4VQ.1:0.798288,(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.FJ610L.1:0.078089,(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.X9WA5F.1:0,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.VDH4YT.1:0):0.067042):0.122108):0.365197);

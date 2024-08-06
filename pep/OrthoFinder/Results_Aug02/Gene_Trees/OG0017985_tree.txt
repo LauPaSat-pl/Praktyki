@@ -1,1 +1,0 @@
-(((Solanum_lycopersicum_Solyc04T002782.1:0.111598,Capsicum_anuum_CA04g20350:0.075311):0.267572,Prunus_persica_Prupe.1G381500.1:0.209362):0.17856,(Brassica_napus_CDY68691:0.068948,Brassica_napus_CDX68147:0.077854):0.17856);

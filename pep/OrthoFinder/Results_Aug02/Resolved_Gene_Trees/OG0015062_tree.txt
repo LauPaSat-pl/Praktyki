@@ -1,1 +1,0 @@
-(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.C0C1TC.1:0.323857,((Brassica_napus_CDX92445:0.039032,Brassica_napus_CDY16553:0.057417)n2:0.062358,(Brassica_napus_CDY45074:0.438352,(Brassica_napus_CDX70937:0.104807,Brassica_napus_CDY51839:0.068591)n4:0.06285)n3:0.030719)n1:0.323857)n0;

@@ -1,1 +1,0 @@
-((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.PK5MX9.1:0.209745,(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.7BX7P6.1:0.524662,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.7MZ8HL.1:0.228865):0.076985):0.225148,(Capsicum_anuum_CA06g18570:0.576928,Capsicum_anuum_CA03g05730:0.337648):0.225148);

@@ -1,1 +1,0 @@
-((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.AF2WTJ.1:0.082878,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.LRFJ0I.1:0.029308):0.16871,(((Prunus_persica_Prupe.6G344200.1:0.72675,Prunus_persica_Prupe.6G344300.1:0.189194):0.147864,Prunus_persica_Prupe.6G344400.1:0.265959):0.244093,(Prunus_persica_Prupe.6G346400.1:0.243985,Prunus_persica_Prupe.6G346300.1:0.139549):0.055078):0.16871);

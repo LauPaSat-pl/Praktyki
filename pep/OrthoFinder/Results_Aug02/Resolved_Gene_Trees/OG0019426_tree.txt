@@ -1,1 +1,0 @@
-(Solanum_lycopersicum_PRAM_36926.1.p2:0.140678,((Brassica_napus_CDY72452:0.355658,Brassica_napus_CDY52295:0.250863)n2:0.164354,Brassica_napus_CDY72473:0.504289)n1:0.140678)n0;

@@ -1,1 +1,0 @@
-(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.XT0VGW.1:0.533923,(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.K4A6U8.1:0.924201,((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.0EX7F2.1:0.853204,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.2S2352.1:0.762576):0.188805,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.IS7Z9S.1:1.30577):0.084116):0.533923);

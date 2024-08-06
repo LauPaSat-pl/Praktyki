@@ -1,1 +1,0 @@
-(Prunus_persica_Prupe.8G011200.1:0.275896,((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.HP5FFL.2:0,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.IIL2TF.2:0)n2:0.010409,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.PJM8NX.1:0.02258)n1:0.275896)n0;

@@ -1,1 +1,0 @@
-(Solanum_lycopersicum_PRAM_51464.1.p1:0.207533,(Solanum_lycopersicum_Solyc01T001585.1:0.59774,(Solanum_lycopersicum_Solyc04T001467.1:0.912306,(Solanum_lycopersicum_Solyc04T001785.1:0.302626,(Solanum_lycopersicum_Solyc06T000836.1:0.038813,Solanum_lycopersicum_Solyc03T001812.1:0.053326)n4:0.293185)n3:0.408938)n2:0.217777)n1:0.207533)n0;

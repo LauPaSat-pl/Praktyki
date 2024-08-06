@@ -1,1 +1,0 @@
-(Prunus_persica_Prupe.2G000800.1:0.559609,(Capsicum_anuum_CA10g07010:0.241035,(Capsicum_anuum_CA10g08500:0.445738,Capsicum_anuum_CA10g08510:0.071381)n2:0.168861)n1:0.559609)n0;

@@ -1,1 +1,0 @@
-(Solanum_lycopersicum_Solyc06T001980.1:0.640599,(Brassica_napus_CDY22886:0.109262,(Brassica_napus_CDY09582:2.59871e-06,(Brassica_napus_CDY49724:0.423055,Brassica_napus_CDY04224:0.206092)n3:0.206196)n2:0.387579)n1:0.640599)n0;

@@ -1,1 +1,0 @@
-(Brassica_napus_CDX87297:0.0102555,(Brassica_napus_CDY39990:0.017173,(Brassica_napus_CDY57694:0.010275,Brassica_napus_CDY54317:0.014734):0.137485):0.0102555);

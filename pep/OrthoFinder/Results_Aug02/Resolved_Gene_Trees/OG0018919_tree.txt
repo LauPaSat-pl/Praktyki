@@ -1,1 +1,0 @@
-(Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.NQN9S5.4:0.149366,((Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.I13WAY.1:0.667112,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.JS1FPB.1:0.226071)n2:0.191078,Arachis_hypogaea_arahy.Tifrunner.gnm1.ann1.0TKH4B.1:0.354117)n1:0.149366)n0;
